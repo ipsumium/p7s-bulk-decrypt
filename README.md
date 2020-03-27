@@ -1,5 +1,6 @@
 ## P7S files bulk decrypt
 This code easily decrypts all .p7s files from the current folder.
+
 Download the executable file from here: https://github.com/ipsumium/p7s-bulk-decrypt/releases
 
 ## Usage
